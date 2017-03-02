@@ -1,0 +1,9 @@
+INSERT INTO `markers` (`id`, `name`, `address`, `lat`, `lng`, `type`) VALUES
+(1, 'The Kunjip', '32W E 32nd St, New York, NY', 40.747643, -73.987228, 'restaurant'),
+(2, 'BCD Tofu House', '5 W 32nd St, New York, NY', 40.747498, -73.986061, 'restaurant'),
+(3, 'Mandoo Bar', '2 W 32nd St, New York, NY', 40.747295, -73.986099, 'bar'),
+(4, 'Five Senses', '9 W 32nd St, New York, NY', 40.747574, -73.986191, 'restaurant'),
+(5, 'Pocha 32', '15 W 32nd St # 2, New York, NY', 40.747761, -73.986320, 'bar'),
+(6, 'Miss Korea BBQ', '10 W 32nd St, New York, NY', 40.747379, -73.986359, 'restaurant'),
+(7, 'Shilla Restaurant', '37 W 32nd St, New York, NY', 40.748005, -73.987259, 'restaurant'),
+(8, 'Gaonnuri', '1250 Broadway, New York, NY', 40.747665, -73.987915, 'restaurant');
